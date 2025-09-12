@@ -2,7 +2,9 @@
 <h3 align="center">Python & Full Stack Developer</h3> 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Founder%20%26%20Director-CoonLink-blueviolet?style=flat-square" />
+  <a href="https://github.com/coonlink">
+    <img src="https://img.shields.io/badge/Founder%20%26%20Director-CoonLink-blueviolet?style=flat-square" />
+  </a>
 </div>
 
 ## About Me
