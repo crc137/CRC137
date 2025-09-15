@@ -32,9 +32,10 @@ I specialize in building scalable backend services and clean modern UIs using **
 </div>
 
 ## GitHub Stats  
-
+<div>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=crc137&show_icons=true&count_private=true&theme=dark&hide_border=true&rank_icon=github)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crc137&layout=compact&theme=dark&hide_border=true)
+</div>
 
 [![wakatime](https://wakatime.com/badge/user/018d7e22-9a95-433a-bf5f-916fa8a41cbf.svg?style=plastic)](https://wakatime.com/@018d7e22-9a95-433a-bf5f-916fa8a41cbf)
 
