@@ -32,7 +32,7 @@ I'm a full-stack developer with 10+ years of experience and the founder of **Coo
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=crc137&hide=prs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crc137)](https://github.com/anuraghazra/github-readme-stats)
 
 [![wakatime](https://wakatime.com/badge/user/018d7e22-9a95-433a-bf5f-916fa8a41cbf.svg?style=plastic)](https://wakatime.com/@018d7e22-9a95-433a-bf5f-916fa8a41cbf)
 
