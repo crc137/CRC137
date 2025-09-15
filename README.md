@@ -31,14 +31,9 @@ I'm a full-stack developer with 10+ years of experience and the founder of **Coo
 </div>
 
 ## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=crc137&show_icons=true&count_private=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crc137&layout=compact&theme=dark&hide_border=true)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=crc137)](https://github.com/anuraghazra/github-readme-stats)
-
-### go-project-blueprint
-Blueprint / Boilerplate for Golang projects  
-![Repo stars](https://img.shields.io/github/stars/crc137/go-project-blueprint?style=social) ![Forks](https://img.shields.io/github/forks/crc137/go-project-blueprint)
-
-Short description: Blueprint/Boilerplate for Golang projects.
 
 [![wakatime](https://wakatime.com/badge/user/018d7e22-9a95-433a-bf5f-916fa8a41cbf.svg?style=plastic)](https://wakatime.com/@018d7e22-9a95-433a-bf5f-916fa8a41cbf)
 
