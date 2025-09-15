@@ -7,18 +7,25 @@
   </a>
 </div>
 
-## About Me
+---
 
-I'm a full-stack developer with 10+ years of experience and the founder of **CoonLink**, where I lead product design and development. I specialize in building scalable backend services and clean modern UIs using Python, Node.js, and modern JS frameworks.
+## 🚀 About Me  
 
-## My Key Expertise
+I'm a full-stack developer with 10+ years of experience and the founder of **CoonLink**, where I lead product design and development.  
+I specialize in building scalable backend services and clean modern UIs using **Python, Node.js, and modern JS frameworks**.  
+
+---
+
+## 🛠 My Key Expertise  
 
 - **Frameworks:** Laravel, Symfony, Express.js, Fastify, Vue.js, React  
 - **Infrastructure & DevOps:** Redis, Docker, Kubernetes, Nginx, Apache, CI/CD (GitHub Actions, GitLab CI)  
 - **Cloud Services:** AWS (S3, EC2, RDS), DigitalOcean, Hostinger, CloudPanel  
-- **Development Methodologies:** Agile (Scrum, Kanban), REST API Design, TDD/BDD  
+- **Methodologies:** Agile (Scrum, Kanban), REST API Design, TDD/BDD  
 
-## Languages & Tools
+---
+
+## ⚡ Languages & Tools  
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,nodejs,express" height="35" />
@@ -30,19 +37,27 @@ I'm a full-stack developer with 10+ years of experience and the founder of **Coo
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,aws,vercel,sqlite,docker,mongodb" height="35" />
 </div>
 
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=crc137&show_icons=true&count_private=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crc137&layout=compact&theme=dark&hide_border=true)
+---
 
+## 📊 GitHub Stats  
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=crc137&show_icons=true&count_private=true&theme=dark&hide_border=true&rank_icon=github)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crc137&layout=compact&theme=dark&hide_border=true)
 
 [![wakatime](https://wakatime.com/badge/user/018d7e22-9a95-433a-bf5f-916fa8a41cbf.svg?style=plastic)](https://wakatime.com/@018d7e22-9a95-433a-bf5f-916fa8a41cbf)
 
 <a href="https://komarev.com/ghpvc/?username=crc137">
-  <img align="right" src="https://komarev.com/ghpvc/?username=crc137&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile visitor" />
+  <img src="https://komarev.com/ghpvc/?username=crc137&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile views"/>
 </a>
 
-## Contact Me
+</div>
 
-- Email: [admin@coonlink.com](mailto:admin@coonlink.com)  
-- Website: [dev.coonlink.com](https://dev.coonlink.com/)  
-- Telegram: [@crc137](https://t.me/crc137)
+---
+
+## 📫 Contact Me  
+
+- 📧 Email: [admin@coonlink.com](mailto:admin@coonlink.com)  
+- 🌐 Website: [dev.coonlink.com](https://dev.coonlink.com/)  
+- 💬 Telegram: [@crc137](https://t.me/crc137)  
