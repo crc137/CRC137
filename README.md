@@ -32,8 +32,8 @@ I'm a full-stack developer with 10+ years of experience and the founder of **Coo
 
 ## GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)\
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crc137&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crc137&hide_progress=true)\
 
 [![wakatime](https://wakatime.com/badge/user/018d7e22-9a95-433a-bf5f-916fa8a41cbf.svg?style=plastic)](https://wakatime.com/@018d7e22-9a95-433a-bf5f-916fa8a41cbf)
 
