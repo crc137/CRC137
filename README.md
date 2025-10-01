@@ -29,11 +29,11 @@ I specialize in building scalable backend services and clean modern UIs using **
 
 ## GitHub Stats  
 
-[![GitHub stats - Dark](https://github-readme-stats.vercel.app/api?username=crc137&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crc137&layout=compact&theme=dark" alt="Top Languages Dark" style="max-width: 49%; border: 1px solid #3d444d;" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=crc137&show_icons=true&theme=dark" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crc137&layout=compact&theme=dark" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" alt="Top Languages (Anuraghazra)" height="150"/>
+</p>
 
 ## Contact Me  
 
