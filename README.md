@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/coonlink">
-    <img src="https://img.shields.io/badge/Founder%20%26%20Director-CoonLink-blueviolet?style=flat-square" />
+    <img src="https://img.shields.io/badge/Founder%20%26%20Director-CoonLink-1a1a1a?style=flat-square&logoColor=white" />
   </a>
 </div>
 
@@ -32,10 +32,17 @@ I specialize in building scalable backend services and clean modern UIs using **
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=crc137&show_icons=true&theme=dark" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crc137&layout=compact&theme=dark" alt="Top Languages" height="150"/>
+  
+  [![crc137 Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=crc137&theme=dark&layout=compact)](https://github.com/crc137/github-readme-stats)
+  
 </p>
 
 ## Contact Me  
 
 - Email: [admin@coonlink.com](mailto:admin@coonlink.com)  
 - Website: [dev.coonlink.com](https://dev.coonlink.com/)  
-- Telegram: [@crc137](https://t.me/crc137)  
+- Telegram: [@crc137](https://t.me/crc137)
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=crc137&style=flat-square&color=lightgray" alt="profile views" />
+</p>
