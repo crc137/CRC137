@@ -1,7 +1,11 @@
-<h1 align="center">Founder & Art Director at CoonLink</h1>
-<h3 align="center">Python & Full Stack Developer</h3> 
-
 <div align="center">
+  <a href="https://github.com/coonlink">
+    <img width="90px" src="https://raw.coonlink.com/cloud/logo.svg" alt="Ah Gan Logo" />
+  </a>
+  
+  <h1 align="center">Founder & Art Director at CoonLink</h1>
+  <h3 align="center">Python & Full Stack Developer</h3> 
+
   <a href="https://github.com/coonlink">
     <img src="https://img.shields.io/badge/Founder%20%26%20Director-CoonLink-1a1a1a?style=flat-square&logoColor=white" />
   </a>  
