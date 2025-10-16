@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://github.com/coonlink">
     <img src="https://img.shields.io/badge/Founder%20%26%20Director-CoonLink-1a1a1a?style=flat-square&logoColor=white" />
-  </a>
+  </a>  
 </div>
 
 ## About Me  
@@ -18,27 +18,6 @@ I specialize in building scalable backend services and clean modern UIs using **
 - **Infrastructure & DevOps:** Redis, Docker, Kubernetes, Nginx, Apache, CI/CD (GitHub Actions, GitLab CI)  
 - **Cloud Services:** AWS (S3, EC2, RDS), DigitalOcean, Hostinger, CloudPanel  
 - **Methodologies:** Agile (Scrum, Kanban), REST API Design, TDD/BDD  
-
-## Languages & Tools  
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,nodejs,express" height="35" />
-  <img src="https://skillicons.dev/icons?i=react,tailwind,astro,js,ts,html,css" height="35" />
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,aws,vercel,sqlite,docker,mongodb" height="35" />
-</p>
-
-## GitHub Stats  
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=crc137&show_icons=true&theme=dark" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crc137&layout=compact&theme=dark" alt="Top Languages" height="150"/>
-</p>
-
-## Contact Me  
-
-- Email: [admin@coonlink.com](mailto:admin@coonlink.com)  
-- Website: [dev.coonlink.com](https://dev.coonlink.com/)  
-- Telegram: [@crc137](https://t.me/crc137)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=crc137&style=flat-square&color=lightgray" alt="profile views" />
