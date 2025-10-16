@@ -32,9 +32,6 @@ I specialize in building scalable backend services and clean modern UIs using **
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=crc137&show_icons=true&theme=dark" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crc137&layout=compact&theme=dark" alt="Top Languages" height="150"/>
-  
-  [![crc137 Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=crc137&theme=dark&layout=compact)](https://github.com/crc137/github-readme-stats)
-  
 </p>
 
 ## Contact Me  
